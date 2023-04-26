@@ -1,6 +1,8 @@
 # QR-Code-Generator
 This is a QR code generator made with javascript and the web page is deisgned with HTML aand CSS.
 
+You can see the code in action here: https://codepen.io/Thanushan0207/pen/OJBmGNP 
+
 Steps:
 1. First download all the files.
 2. Then use any choice of code editor to open the HTML, CSS, and JS files. 
